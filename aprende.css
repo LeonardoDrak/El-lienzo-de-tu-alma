@@ -1,0 +1,33 @@
+.titulo{
+  width: 100%;
+ background: #1c1c1c;
+ height: 200px;
+ font-family: cursive;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ color: #fff500;
+ font-weight: 500;
+ font-size: 35px;
+}
+body
+{
+  background: url(fondo7.jpg);
+  background-size: 100vw 100vh;
+}
+p{
+  font-size: 15px;
+  color: #fffbff;
+  font-family: sans-serif;
+  font-style: italic;
+}
+img
+{
+  border-radius: 25%;
+}
+ul > li
+{
+  color: #ffffff;
+  font-size: 15px;
+  font-family: monospace;
+}

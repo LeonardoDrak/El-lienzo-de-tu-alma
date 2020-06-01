@@ -1,0 +1,24 @@
+h1
+{
+  font-size: 25px;
+  font-family: cursive;
+  text-align: center;
+}
+td
+{
+  font-size: 15px;
+  font-family: cursive;
+}
+tr
+{
+  font-size: 15px;
+  font-family: cursive;
+}
+body
+{
+  background: url(fondo10.jpg);
+  font-weight: 300;
+  font-family: cursive;
+  color: #ffffff;
+  background-size: 100vw 100vh;
+}

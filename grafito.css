@@ -1,0 +1,45 @@
+*
+{
+  padding: 0;
+  margin: 0;
+}
+h1
+{
+  text-align: center;
+  font-family: cursive;
+  color: #ee6f13;
+}
+img
+{
+  border-radius: 50%;
+  border-color: rgb(0, 0, 0);
+  width: 200px;
+  height: 300px;
+}
+body
+{
+  background: url(fondo9.jpg);
+  background-size: 100vw 100vh;
+}
+td
+{
+  background-color: #0054a1;
+  font-family: sans-serif;
+  opacity: 85%;
+}
+.parr
+{
+  font-weight: 800;
+  font-family: cursive;
+  width: 100;
+}
+
+.ancho
+{
+  width: 200px;
+}
+p{
+  color: #ffffff;
+  font-size: 17px;
+  font-family:cursive;
+}
